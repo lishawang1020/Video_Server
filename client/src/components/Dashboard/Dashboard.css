@@ -1,0 +1,24 @@
+.video-thumbnail img {
+    width: 100%;
+  }
+  
+  .video-title {
+    position: absolute;
+    font-size: 1.0rem;
+    font-weight: 450;
+  }
+  
+  .username {
+    position: absolute;
+    bottom: 5px;
+    left: 20px;
+    background-color: lightgray;
+  }
+  
+  .username a {
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    padding: 2px 8px;
+  }
+  
